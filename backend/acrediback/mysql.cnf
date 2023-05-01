@@ -1,0 +1,7 @@
+[client]
+host = database-personal.crib69fwybf3.us-east-1.rds.amazonaws.com
+database = db
+user = admin
+password = personal123
+port = 3306
+default-character-set = utf8
